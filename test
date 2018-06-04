@@ -2,11 +2,11 @@ This is a test file.
 
 This will test if the branching worklfow will work.
 
-First, move this file into the integration branch.
+Merge This branch to integration branch by creating a new branch and merge than new branch into .
+
 
 Next, create a new branch that will fix the following errors:
-He mee neme ees Mikel Gurdyn.
+Hi my name is Michael Jordan.
 
-Merge This branch to integration branch.
 
-Merge integration branch to customer branch.
+Merge integration branch to customer branch only if the file is stable.
