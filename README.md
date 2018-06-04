@@ -1,4 +1,1 @@
-# sandbox
-This is the repository testing the workflow.
-
-In here you will find branches for each customer with each customer having 3 folders: XML, DB, DLL
+You are now in the Customer-3 Integration Branch. This is wehre you debug from the Customer-3 Branch.
