@@ -1,1 +1,2 @@
-You are now in the Customer-2-Integration Branch. This is where you debug from the Customer-2 Branch.
+
+This is the Customer-2 Branch. In here you will find the folders and the files in each folder for each customer.
