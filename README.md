@@ -1,1 +1,1 @@
-This is the Customer-1-Integration Branch. This is where debugging will occur for the Customer-1 branch.
+This is the Customer-1 Branch. In here you will find the folders and the files in each folder for each customer.
